@@ -49,6 +49,8 @@ sudden wind spikes or temperature drops.
 
 ## 1. Locations with Rainfall
 
+
+![Locations with rainfall](https://github.com/user-attachments/assets/de7ccb46-1bf9-4184-87ac-a470f9be28e4)
 Observations:
 
 Certain regions experience higher rainfall compared to others.
