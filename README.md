@@ -69,6 +69,10 @@ Construction Projects: Delays due to heavy rainfall in specific locations need t
 
 ## 2. 9AM and 3PM Wind Speed
 
+
+![9am 3pm wind speed](https://github.com/user-attachments/assets/09e634ee-b922-4400-9280-3a9caeed1c4f)
+
+
 Observations:
 
 Wind speed might show a variation between morning (9 AM) and afternoon (3 PM), indicating either an increasing or decreasing trend.
@@ -85,7 +89,11 @@ Logistics and Transportation: For aviation or shipping companies, understanding 
 
 Marketing Insights: Businesses, such as outdoor events or cafes, can avoid scheduling activities during peak wind times to ensure customer comfort and safety.
 
-3. Rainfall and Humidity Relation
+## 3. Rainfall and Humidity Relation
+
+
+![rainfall and humidity relation](https://github.com/user-attachments/assets/249afef3-677e-4dcc-a2d9-a9db235514ee)
+
    
 Observations:
 
