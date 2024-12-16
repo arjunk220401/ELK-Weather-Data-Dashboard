@@ -1,3 +1,9 @@
+# Video of the Dashboard
+
+
+https://github.com/user-attachments/assets/4de22b01-2846-4c5a-bf16-b67e53b7a395
+
+
 # Objectives of the Weather Dashboard:
 
 ## Real-Time Monitoring of Key Weather Metrics:
