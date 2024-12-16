@@ -109,4 +109,72 @@ Agricultural Adjustments: High humidity combined with rainfall could increase th
 
 Manufacturing and Warehousing: Industries sensitive to humidity (e.g., textile, food processing, and electronics) must install humidity control systems to protect goods from moisture damage.
 
-Tourism and Hospitality: Managers should prepare for low tourist turnout during periods of high rainfall and humidity by offering indoor experiences and discounts to attract visitors
+Tourism and Hospitality: Managers should prepare for low tourist turnout during periods of high rainfall and humidity by offering indoor experiences and discounts to attract visitors.
+
+
+## 4. Average WindGustDir_code
+
+Observations:
+
+This graph shows the average wind gust direction code, which provides a measure of the directionality of the wind gusts. 
+
+The value shown is 23.717, which indicates the predominant wind gust direction. This information could be useful for activities and operations that are sensitive to wind direction, such as aviation, outdoor events, or renewable energy production.
+
+
+Managerial implications:
+
+Understanding the prevailing wind gust direction can help optimize the placement and orientation of wind turbines or other wind-sensitive equipment.
+
+Knowing the typical wind patterns can assist in planning outdoor events, transportation routes, or other activities that may be affected by wind direction.
+
+The wind gust direction data can be incorporated into weather forecasting and risk management models to improve decision-making.
+
+## 5. Rainfall & Sunshine
+
+Observations: 
+
+This graph depicts the relationship between rainfall and sunshine over time. 
+
+The y-axis shows the measured values for both rainfall and sunshine, with the rainfall data shown in green and the sunshine data shown in blue.
+
+Managerial implications:
+
+The rainfall and sunshine data can be used to understand the local climate and weather patterns, which is crucial for industries like agriculture, construction, and tourism.
+
+Analyzing the trends and correlations between rainfall and sunshine can help optimize irrigation scheduling, plan outdoor activities, and make informed decisions about resource allocation.
+
+The data can also be used to identify potential risks, such as drought or excessive rainfall, and implement appropriate mitigation strategies.
+
+## 6. Rainfall vs Evaporation
+
+Observations:
+
+This graph illustrates the relationship between rainfall and evaporation over time. 
+
+The y-axis represents the measured values for both rainfall and evaporation, with the evaporation data shown in green.
+
+Managerial implications:
+
+Understanding the balance between rainfall and evaporation is essential for water resource management, irrigation planning, and agricultural decision-making.
+
+The data can be used to identify periods of water surplus or deficit, which can inform strategies for water conservation, storage, and distribution.
+
+Analyzing the trends in rainfall and evaporation can help predict the availability of water resources and plan accordingly for activities such as landscaping, outdoor recreation, and industrial processes that rely on water.
+
+## 7. Maximum Temperature and Median of MaxTemp
+
+Observations:
+
+This graph displays the maximum temperature and the median of the maximum temperature over time. 
+
+The y-axis shows the temperature values, and the graph appears to be a circular or radial chart.
+
+Managerial implications:
+
+The maximum temperature and median of maximum temperature data can be used to understand the local climate and identify any extreme temperature events or trends.
+
+This information can be valuable for industries such as energy, agriculture, and tourism, where temperature plays a crucial role in operations, planning, and decision-making.
+
+The data can be used to assess the impact of temperature on the performance and efficiency of equipment, the well-being of employees and customers, and the viability of certain agricultural or recreational activities.
+
+Analyzing the temperature data can also help in designing and implementing appropriate climate control measures, such as HVAC systems, insulation, or shading, to optimize energy usage and maintain comfortable conditions.
