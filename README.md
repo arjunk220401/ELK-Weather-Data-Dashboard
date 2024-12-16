@@ -57,13 +57,14 @@ sudden wind spikes or temperature drops.
 
 
 ![Locations with rainfall](https://github.com/user-attachments/assets/de7ccb46-1bf9-4184-87ac-a470f9be28e4)
-Observations:
+
+### Observations:
 
 Certain regions experience higher rainfall compared to others.
 
 The intensity or frequency of rainfall may vary geographically.
 
-Managerial Implications and Insights:
+### Managerial Implications and Insights:
 
 Resource Allocation: In regions with heavy rainfall, businesses should plan for disruptions by allocating additional resources for infrastructure maintenance, waterproofing, and logistics adjustments.
 
@@ -79,13 +80,13 @@ Construction Projects: Delays due to heavy rainfall in specific locations need t
 ![9am 3pm wind speed](https://github.com/user-attachments/assets/09e634ee-b922-4400-9280-3a9caeed1c4f)
 
 
-Observations:
+### Observations:
 
 Wind speed might show a variation between morning (9 AM) and afternoon (3 PM), indicating either an increasing or decreasing trend.
 
 Higher wind speeds could be concentrated at certain times of the day.
 
-Managerial Implications and Insights:
+### Managerial Implications and Insights:
 
 Renewable Energy: Wind energy projects should align with time-specific wind patterns. Higher wind speeds at 3 PM, for example, could improve energy output if turbines are optimized for this period.
 
@@ -101,13 +102,13 @@ Marketing Insights: Businesses, such as outdoor events or cafes, can avoid sched
 ![rainfall and humidity relation](https://github.com/user-attachments/assets/249afef3-677e-4dcc-a2d9-a9db235514ee)
 
    
-Observations:
+### Observations:
 
 A clear relationship between rainfall and humidity levels is likely present. Higher humidity may coincide with increased rainfall.
 
 This relationship could highlight trends where rainfall intensity correlates with specific humidity thresholds.
 
-Managerial Implications and Insights:
+### Managerial Implications and Insights:
 
 Weather-Driven Demand Forecasting: Retailers can anticipate spikes in demand for products like dehumidifiers, rain gear, and indoor activities when humidity and rainfall levels rise.
 
@@ -124,14 +125,14 @@ Tourism and Hospitality: Managers should prepare for low tourist turnout during 
 ![avg windgust speed](https://github.com/user-attachments/assets/e99e1c42-96d9-4f80-9d48-488c14f71ceb)
 
 
-Observations:
+### Observations:
 
 This graph shows the average wind gust direction code, which provides a measure of the directionality of the wind gusts. 
 
 The value shown is 23.717, which indicates the predominant wind gust direction. This information could be useful for activities and operations that are sensitive to wind direction, such as aviation, outdoor events, or renewable energy production.
 
 
-Managerial implications:
+### Managerial implications:
 
 Understanding the prevailing wind gust direction can help optimize the placement and orientation of wind turbines or other wind-sensitive equipment.
 
@@ -145,13 +146,13 @@ The wind gust direction data can be incorporated into weather forecasting and ri
 ![rainfall and sunshine](https://github.com/user-attachments/assets/4c75910e-5a44-4a41-bd53-206ef1e7a4ce)
 
 
-Observations: 
+### Observations: 
 
 This graph depicts the relationship between rainfall and sunshine over time. 
 
 The y-axis shows the measured values for both rainfall and sunshine, with the rainfall data shown in green and the sunshine data shown in blue.
 
-Managerial implications:
+### Managerial implications:
 
 The rainfall and sunshine data can be used to understand the local climate and weather patterns, which is crucial for industries like agriculture, construction, and tourism.
 
@@ -165,13 +166,13 @@ The data can also be used to identify potential risks, such as drought or excess
 ![rainfall vs evap](https://github.com/user-attachments/assets/32d9de95-d906-4490-8d72-a472b6be8396)
 
 
-Observations:
+### Observations:
 
 This graph illustrates the relationship between rainfall and evaporation over time. 
 
 The y-axis represents the measured values for both rainfall and evaporation, with the evaporation data shown in green.
 
-Managerial implications:
+### Managerial implications:
 
 Understanding the balance between rainfall and evaporation is essential for water resource management, irrigation planning, and agricultural decision-making.
 
@@ -184,13 +185,13 @@ Analyzing the trends in rainfall and evaporation can help predict the availabili
 ![maximum temp](https://github.com/user-attachments/assets/0134d3cd-de8d-4126-95e4-774c86a4a806)
 
 
-Observations:
+### Observations:
 
 This graph displays the maximum temperature and the median of the maximum temperature over time. 
 
 The y-axis shows the temperature values, and the graph appears to be a circular or radial chart.
 
-Managerial implications:
+### Managerial implications:
 
 The maximum temperature and median of maximum temperature data can be used to understand the local climate and identify any extreme temperature events or trends.
 
