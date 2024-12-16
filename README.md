@@ -11,13 +11,11 @@ This feature allows users (meteorologists, analysts, or industries like agricult
 "Average WindGust Speed" provides a numerical summary (23.717) to monitor wind intensity, critical for industries like aviation, shipping, or infrastructure planning.
 
 The "9 AM vs 3 PM Wind Speed" chart compares wind variations at two specific times of the day. This could help identify patterns of wind acceleration during peak hours,
-
 useful for energy sectors like wind farming or urban planners.
 
 ## Temperature Trends (Maximum Temperature Insight):
 
 "Median of MaxTemp" highlights the central tendency of temperature. The value 22.683 indicates current trends, helping to monitor deviations and ensure seasonal forecasting
-
 accuracy.
 
 For sectors like energy or agriculture, such temperature insights help optimize resources (e.g., energy demand in peak summer).
@@ -25,7 +23,6 @@ For sectors like energy or agriculture, such temperature insights help optimize 
 ## Rainfall Analysis:
 
 "Rainfall vs Evaporation": This chart visually correlates evaporation levels with rainfall to understand water balance. High evaporation with low rainfall could signal 
-
 potential drought risks.
 
 Such data is crucial for water resource management, farming, and disaster preparedness.
@@ -45,5 +42,4 @@ A spike in sunshine hours with low rainfall might indicate prolonged dry spells,
 ## Time-Based Weather Anomalies:
 
 The inclusion of a time axis (e.g., timestamp per minute for wind speed) reflects the time-series nature of weather data. This helps identify anomalies or trends, such as
-
 sudden wind spikes or temperature drops.
