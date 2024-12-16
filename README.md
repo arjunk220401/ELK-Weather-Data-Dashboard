@@ -114,6 +114,10 @@ Tourism and Hospitality: Managers should prepare for low tourist turnout during 
 
 ## 4. Average WindGustDir_code
 
+
+![avg windgust speed](https://github.com/user-attachments/assets/e99e1c42-96d9-4f80-9d48-488c14f71ceb)
+
+
 Observations:
 
 This graph shows the average wind gust direction code, which provides a measure of the directionality of the wind gusts. 
@@ -131,6 +135,10 @@ The wind gust direction data can be incorporated into weather forecasting and ri
 
 ## 5. Rainfall & Sunshine
 
+
+![rainfall and sunshine](https://github.com/user-attachments/assets/4c75910e-5a44-4a41-bd53-206ef1e7a4ce)
+
+
 Observations: 
 
 This graph depicts the relationship between rainfall and sunshine over time. 
@@ -147,6 +155,10 @@ The data can also be used to identify potential risks, such as drought or excess
 
 ## 6. Rainfall vs Evaporation
 
+
+![rainfall vs evap](https://github.com/user-attachments/assets/32d9de95-d906-4490-8d72-a472b6be8396)
+
+
 Observations:
 
 This graph illustrates the relationship between rainfall and evaporation over time. 
@@ -162,6 +174,9 @@ The data can be used to identify periods of water surplus or deficit, which can 
 Analyzing the trends in rainfall and evaporation can help predict the availability of water resources and plan accordingly for activities such as landscaping, outdoor recreation, and industrial processes that rely on water.
 
 ## 7. Maximum Temperature and Median of MaxTemp
+
+![maximum temp](https://github.com/user-attachments/assets/0134d3cd-de8d-4126-95e4-774c86a4a806)
+
 
 Observations:
 
